@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "01ZaGJ7JHcuDXCX/pVXJTDlr2M7exA6KaWZ1BiQLnP0=",
+  "Source": "SafeBoda.Api",
+  "BasePath": "_content/SafeBoda.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
