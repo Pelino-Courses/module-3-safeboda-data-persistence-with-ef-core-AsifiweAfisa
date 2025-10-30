@@ -1,0 +1,28 @@
+# IDE
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]uild/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# NuGet
+*.nupkg
+.nuget/
+nuget.exe
+
+# ASP.NET Core
+appsettings.Development.json
+appsettings.Production.json
